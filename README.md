@@ -35,7 +35,7 @@
 - Dynamic tool rendering and UI adapts to tool call results
 - Chats are stored persistently and can be restored any time
 - Knowledge base integration via backend
-- Powered by: `Next.js`, `Vercel AI SDK`, `OpenAI SDK`, `React Query`
+- Powered by: `Next.js`, `Vercel AI SDK`, `OpenAI SDK`, `React Query`, `Supabase`, `Redis`
 
 ---
 
