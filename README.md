@@ -29,6 +29,7 @@
 ## 🚀 Featured Projects
 
 ### 🛠️ AI Chatbot Builder (Next.js, FastAPI & OpenAI)
+*(project for client / internal use – not public)*
 
 - **Configurable chatbot** – set up tool-calling logic through a UI
 - Dynamic tool rendering and UI adapts to tool call results
@@ -39,6 +40,7 @@
 ---
 
 ### 🌱 FastAPI REST API Starter Template
+*(open source – [repo coming soon!](#))*
 
 - A public, modern **FastAPI starter template** for fast backend development
 - Includes best practices, ready-to-go configuration and simple structure for scaling
@@ -49,7 +51,11 @@
 <summary>What's next? (ERP System Preview)</summary>
   
 **Coming soon:**  
+
+*(project for client / internal use – not public)*
+
 A full-blown **ERP system** (Web & Mobile) built with Next.js, FastAPI, and Flutter – with smart automations and a self-hosted LLM powering the backend.  
+
 **Stay tuned!**
 </details>
 
